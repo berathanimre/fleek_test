@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `Gatsby Portfolio`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://www.berathan.com`,
   },
   plugins: [],
 }
