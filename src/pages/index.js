@@ -136,7 +136,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <img src={profilePic} alt="Profile" style={profileImageStyle} />
-      <h1 style={headingStyles}>Berathan Imre3k</h1>
+      <h1 style={headingStyles}>Berathan Imre</h1>
       <h2 style={headingAccentStyles}>Data Scientist</h2>
       <p style={paragraphStyles}>
       I’m a Data Scientist with 8+ years of experience, specializing in machine learning, mainly in tabular data and time series forecasting, and scalable AI solutions. Currently, I’m focused on deep learning, particularly transformers and retrieval-augmented generation (RAG), as well as building production-grade ML pipelines in cloud-native environments. I’m passionate about optimizing models for real-world impact.
@@ -145,7 +145,7 @@ const IndexPage = () => {
         <li style={docLinkStyle}>
           <a
             style={linkStyle}
-            href="https://www.linkedin.com/in/berathan-imre"
+            href="https://www.linkedin.com/in/berathan-imre-9159bba3"
           >
             Let's connect on LinkedIn
           </a>
@@ -166,11 +166,11 @@ export const Head = () => (
     <meta property="og:title" content="Berathan Imre - Data Scientist" />
     <meta property="og:description" content="Berathan Imre is a Data Scientist with 8+ years of experience in machine learning, time series forecasting, and LLM-driven systems." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://www.yourdomain.com" />
-    <meta property="og:image" content="https://www.yourdomain.com/og-image.jpg" />
+    <meta property="og:url" content="https://www.berathan.com" />
+    <meta property="og:image" content="https://www.berathan.com/profile.jpg" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Berathan Imre - Data Scientist" />
     <meta name="twitter:description" content="Berathan Imre is a Data Scientist with 8+ years of experience in machine learning, time series forecasting, and LLM-driven systems." />
-    <meta name="twitter:image" content="https://www.yourdomain.com/twitter-image.jpg" />
+    <meta name="twitter:image" content="https://www.berathan.com/profile.jpg" />
   </>
 );
